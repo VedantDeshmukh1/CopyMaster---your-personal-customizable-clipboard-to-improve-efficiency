@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/badge/version-2.1-blue.svg)](https://github.com/yourusername/CopyMaster)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://img.shields.io/github/downloads/yourusername/CopyMaster/total.svg)](https://github.com/yourusername/CopyMaster/releases)
+[![Downloads](build/)
 
 ## 📚 Table of Contents
 - [Features](#-features)
