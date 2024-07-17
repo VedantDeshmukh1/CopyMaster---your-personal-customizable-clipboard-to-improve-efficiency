@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/badge/version-2.1-blue.svg)](https://github.com/yourusername/CopyMaster)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](build/exe.win-amd64-3.11/clipboard_monitor_v2.exe)
+[!(build/exe.win-amd64-3.11/clipboard_monitor_v2.exe)]
 
 ## 📚 Table of Contents
 - [Features](#-features)
